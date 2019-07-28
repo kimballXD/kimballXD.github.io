@@ -1,5 +1,6 @@
 ---
 title: Kimball Wu
+layout: default
 ---
 # About Kimball Wu
 
