@@ -1,4 +1,5 @@
 ---
+title: Kimball Wu
 ---
 # About Kimball Wu
 
