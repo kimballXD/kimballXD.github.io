@@ -29,7 +29,7 @@ title: Kimball Wu
 
 - 台灣台南人，八年級後段班。
 - 東方 Project 迷，動畫迷，音樂遊戲玩家。
-- MBTI types：INTP
+- MBTI 類別：INTP
 
 ## 作品
 
