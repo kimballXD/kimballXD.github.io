@@ -17,7 +17,7 @@ layout: default
 - 台灣台南人，七年級後段班╱80 後。
 - 異性戀男性。
 - MBTI 類別：INTP。Indoor 派。
-- 東方 Project 迷，動畫迷，音樂遊戲玩家 (Sound Voltex, Arcaea)。
+- 東方 Project 迷，動畫迷 ([my Bangumi library](https://bangumi.tv/user/62510))，音樂遊戲玩家 (Sound Voltex, Arcaea)。
 - 喜歡看 Youtube 和維基百科，什麼都懂一點。
 
 #### 教育
@@ -34,10 +34,6 @@ layout: default
 - 專任研究助理  @ 中研院社會所
 
 ## 作品
-
-#### 程式專案
-
-見此 [repo](https://github.com/kimballXD/portofolio)。陸續整理中。
 
 #### 學術著作
 
