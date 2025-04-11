@@ -6,19 +6,20 @@ layout: default
 
 ## Summary
 
-- Experienced data engineer and BI developer.  Have good command on machine learning and statistics skills.
-  - Python, SQL, R, and Shell Scripting. Some Spark, some Front-End tricks, and some VBA. 
-  - Experience with system design, deploy, and maintenance. 
+- Machine Learning developer. Experienced data engineer (Data Warehouse and ETL) and BI developer.  Have good command in statistical analysis and natural language processing. 
+  - Main tool box: Python, SQL and Bash scripts. 
+  - Expert of building end-to-end data application (raw data source -> data warehouse -> report/ interactive dashboard/ machine leaning model)
 - Former Sociologist with Economics background, focusing on economic sociology. 
-- Amateur critic of Japanese animation and comics.
-- Fast Learner; systematical planner.
+- Amateur critics of Japanese animation and comics.
 
 ## Background
 
 #### Employment
 
+- Senior Machine Learning Engineer - Credit Risk Model @ Onramp Funds
+- Senior Data Engineer (ETL, BI) @ Home Point Financial
 - (part-time) Dashboard Developer @ University Information Technology  Services, Indiana University Bloomington. 
-- (Intern) BI Developer @ Mr. Cooper (NASD: COOP). 
+- (Intern) BI Developer @ Mr. Cooper. 
 - Senior Data Engineer (ETL, BI, ML) @ Taiwan Mobile. Co. Ltd. 
 - Research Analyst Assistant @ Academia Sinica, Institute of Sociology. 
 
@@ -31,7 +32,7 @@ layout: default
 #### Personal
 
 - Origin from Taiwan. Born in the late 80's. 
-- Diehard fan of Touhou Project. Anime Fan. Music game player. 
+- Diehard fan of Touhou Project. Anime Fan. Music game player (SDVX). 
 - MBTI type: INTP.
 
 ## Works

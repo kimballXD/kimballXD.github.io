@@ -6,7 +6,7 @@ layout: default
 
 ## 我是誰
 
-- 資料工程師、商業智慧應用開發者。略懂機器學習、統計分析、自然語言處理。
+- 資料工程師、商業智慧、機器學習開發者。略懂統計分析、自然語言處理。
 - 前社會學學徒。主要研究領域：社會經濟史、經濟思想史。
 - 業餘 ACG 文化評論者。評論社團 Socotaku 成員（2014~2020）。
 
@@ -28,6 +28,7 @@ layout: default
 
 #### 職業
 
+- 資深機器學習工程師 @ Onramp Funds
 - 資深資料工程師 @ Home Point Financial
 - （實習）商業智慧開發工程師 @ Mr. Cooper (NASD: COOP). 
 - 資深資料工程師 (ETL, BI, ML) @ 台灣大哥大
@@ -49,7 +50,7 @@ layout: default
 
 #### ACG文化批評 (節選)
 
-以下文章收於 [Socotaku 出版之評論同人誌](https://medium.com/socotaku/socotaku-%E8%88%87%E4%BD%9C%E5%93%81%E7%B0%A1%E4%BB%8B-678ac4fe937e)：
+以下文章收於 [Socotaku 出版之評論同人誌](https://socotaku.org/)：
 
 - [〈是禽獸還是禽獸不如？與《動物化的後現代》對話〉](https://medium.com/socotaku/%E6%98%AF%E7%A6%BD%E7%8D%B8%E9%82%84%E6%98%AF%E7%A6%BD%E7%8D%B8%E4%B8%8D%E5%A6%82-%E8%88%87-%E5%8B%95%E7%89%A9%E5%8C%96%E7%9A%84%E5%BE%8C%E7%8F%BE%E4%BB%A3-%E5%B0%8D%E8%A9%B1-4d34927ed5b5?source=---------7------------------) 
 - 〈大齡御宅們，老老實實成熟吧！〉
