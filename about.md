@@ -6,8 +6,8 @@ layout: default
 
 ## Summary
 
-- Machine Learning developer. Experienced data engineer (Data Warehouse and ETL) and BI developer.  Have good command in statistical analysis and natural language processing. 
-  - Main tool box: Python, SQL and Bash scripts. 
+- Machine Learning developer; experienced data engineer (Data Warehouse and ETL) and BI developer.  Have good command in statistical analysis and natural language processing. 
+  - Main tool box: Python, SQL, and some Bash.
   - Expert of building end-to-end data application (raw data source -> data warehouse -> report/ interactive dashboard/ machine leaning model)
 - Former Sociologist with Economics background, focusing on economic sociology. 
 - Amateur critics of Japanese animation and comics.
